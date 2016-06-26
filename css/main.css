@@ -1,0 +1,26 @@
+img.logo {
+  height: 64px;
+}
+li.slide-image#slide-1 {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://static.pexels.com/photos/34600/pexels-photo.jpg');
+  background-size: cover;
+}
+li.slide-image#slide-2 {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://static.pexels.com/photos/7374/startup-photos-large.jpg');
+  background-size: cover;
+}
+section {
+  padding: 20px;
+  min-height: 50vh;
+}
+
+.italic {
+  font-style: italic;
+}
+h1 {
+  margin: 0;
+  padding: 2.1rem 0 1.68rem 0;
+}
+.row {
+  margin-bottom: 0;
+}
