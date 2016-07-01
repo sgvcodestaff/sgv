@@ -4,7 +4,7 @@ $( document ).ready(function(){
   console.log(go);
 	if (typeof go === 'undefined') {
 		Cookies.set(COOKIE_NAME, 'test', { path: '/', expires: 6 });
-		window.location = "boom-screen.html";
+	//	window.location = "boom-screen.html";
 	}
 
   $(".slider").slider({

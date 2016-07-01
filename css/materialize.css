@@ -3065,7 +3065,10 @@ nav {
       height: 56px;
       line-height: 56px; }
   nav .brand-logo {
+    z-index: 10;
     position: absolute;
+    z-index: 10;
+    margin: 8px auto;
     color: #fff;
     display: inline-block;
     font-size: 2.1rem;
