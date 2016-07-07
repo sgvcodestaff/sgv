@@ -6191,4 +6191,10 @@ blockquote {
   background-color: rgba(255, 255, 255, 0.1);
   width: 100%; }
 
+a {
+  color: #ff944d; }
+
+footer.page-footer {
+  color: #b34700; }
+
 /*# sourceMappingURL=materialize.css.map */
