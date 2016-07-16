@@ -6154,6 +6154,12 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 html {
   font-family: 'Source Sans Pro', sans-serif; }
 
+body {
+  color: #662900; }
+
+ul#nav-mobile li a {
+  color: #662900; }
+
 section.content {
   background-color: #ff6600; }
 
@@ -6176,9 +6182,12 @@ blockquote {
 @media only screen and (max-width: 600px) {
   .brand-logo img {
     height: 56px; } }
+h4.logo-text {
+  margin-left: 20px; }
+
 @media only screen and (max-width: 992px) {
   h4.logo-text {
-    margin-left: 0;
+    margin-left: -10px;
     text-align: center; } }
 .secondary-nav {
   background-color: #ff6600;
@@ -6196,5 +6205,8 @@ a {
 
 footer.page-footer {
   color: #b34700; }
+
+div.footer-copyright {
+  color: #ff944d; }
 
 /*# sourceMappingURL=materialize.css.map */

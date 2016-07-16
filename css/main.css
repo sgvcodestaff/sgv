@@ -1,13 +1,14 @@
 img.logo {
   height: 80px;
 }
+li.slide-image {
+  background-size: cover;
+}
 li.slide-image#slide-1 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://static.pexels.com/photos/34600/pexels-photo.jpg');
-  background-size: cover;
 }
 li.slide-image#slide-2 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://static.pexels.com/photos/7374/startup-photos-large.jpg');
-  background-size: cover;
 }
 section {
   padding: 20px;
